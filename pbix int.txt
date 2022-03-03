@@ -1,0 +1,42 @@
+what is your day to day activity,what is your team size,or you are an individual conflictor,
+my name is mahesh i have completed my graduation in2019 june, 
+after that i joined  in a zenzar technologies as a junior,data analyst 
+up to 6 months i took trining,after that i entered into real time work, 
+and i hove knowledge in power bi,sql, i have been part of many end to end reports
+currently my client is yale new heaven hospital in USA, it is one of the largest hospital in world
+it recives medical reiumbersiment through various insurance companies
+this report is used by enduser as well as senior management of my company
+1)what is power bi?
+power bi is a data analtics tool whici is provided by microsoft,with it we can analyize the data and create 
+different attractive and interactive viziualization charts, reports to the clint or enduser..
+2)what are the sources which you have connected?
+for the current project in the yale we have connected with sql data base
+we have connected using import mode, apart from this also i have good experience
+in loading data sources like csv, excel,
+3)what is the difference between import mode and direct query mode?
+both try to access data
+important feauter of import mode is, power bi has some storage space
+4)as a power bi developer which phases you have worked?
+in current project i was only a a power bi developer, i got a lot of oppourtunirs to work end to end
+our client didnt give actual data, he just gives us requirments, based on the requirments, i have to check data
+we need to pull out the right tables,this was actually a bit challenging, once i have bring the data into power query
+a lot of transformations have to be done like text transformation,column transformation,day transformations, 
+number transformations , then comming to the charts, iam specilist in adding charts, which data requires which chart
+like pie chart, donut chatrr,cards, multi cards, after that comming to the servvice level, i was the  only person who
+has given premium access, so i was able to publish the report, i was able to create rls, i was able to setup shedules
+this is how i have experirnce in all the phases of power bi. 
+5)this year sales i have to compare with last year for the same duriation? which time intelligent function can i use..
+there are many ways to do it, beacuse in dax we have 1400 dax functions, you can write with multiple ways,your requirment last year
+same period last year is the function, which ever the period you have selected this year,the same period you are getting for the last year
+6)have you worked with sum and sumx functions?
+yes , sum and sumx function yeah, ican all it as x function , what exactly the difference is,like
+you want to total sales,lke every cloum you have sales data,to get total sales yo[u just
+need to rite sum of sales,this is a normal function, i can call it as column level function.
+
+
+
+
+2)do you know what is ssrs?
+basically ssrs meas sql server reporting services, it is a website that host webbased report
+a) right now i am working in zenzar technologues,which is one of the reputed organization in banglore
+and my designiation is data analyst, my entire work is analysisng the data, so to analyise the data i perform
